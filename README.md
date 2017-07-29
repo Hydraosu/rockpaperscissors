@@ -1,2 +1,3 @@
 # rockpaperscissors
-Very gud gaem
+Simple rock, paper, scissor game
+Used: HTML/CSS/jQuery
