@@ -1,0 +1,36 @@
+
+body {
+
+background-image: url('http://api.thumbr.it/whitenoise-361x370.png?background=4ea6caff&noise=626262&density=15&opacity=15');
+
+}
+
+
+#player1 {
+float:left;
+
+}
+
+
+#player2 {
+float:right;
+
+}
+
+img{
+width:250px;
+height:200px;
+display:block;
+}
+#player1hp{
+	float:left;
+	font-size:15px;
+
+
+}
+#player2hp{
+	float:left;
+	font-size:15px;
+
+
+}
